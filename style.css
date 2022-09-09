@@ -98,14 +98,6 @@ nav ul{
     color: #eeeeee;
 }
 
-.line{
-    background-color: #eeeeee;
-    height: 3px;
-    width: 0;
-    position: absolute;
-    transition: width 1s ease-in-out;
-}
-
 @media screen and (max-width: 950px)
 {
     .gameContainer{
